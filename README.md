@@ -1,5 +1,12 @@
-# Sobre
+# Sfingers Music Store
 
+# Navegação
+[Diagrama de Caso de Uso](./docs/modelagem/CasosDeUso.md)
+
+[Diagrama de Classes](./docs/modelagem/DiagramaDeClasses.md)
+
+---
+# Sobre
 
 Este repositório é destinado a aplicação [**Sfingers Music Store**](https://github.com/users/vorthkor/projects/2?pane=info) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Software Product: Analysis, Specification, Project da Faculdade Impacta.
 
