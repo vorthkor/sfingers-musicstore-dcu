@@ -1,0 +1,46 @@
+site_name: Sfingers Music Store
+
+repo_name: 'sfingers-musicstore-dcu'
+repo_url: 'https://github.com/vorthkor/sfingers-musicstore-dcu'
+
+copyright: 'Copyright &copy; 2023 SMS'
+
+theme:
+  name: 'material'
+  language: 'pt'
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+
+extra:
+  social:
+    - type: 'Sfingers Music Store'
+      link: 'https://github.com/chouzzy/sfingersMusicStore'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Início: index.md
+  - Modelagem:
+    - Casos de Uso: modelagem/CasosDeUso.md
+    - Diagrama de Classes: modelagem/DiagramaDeClasses.md
