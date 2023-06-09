@@ -1,5 +1,9 @@
 # Início
 
+# Navegação
+[Diagrama de Caso de Uso](./modelagem/CasosDeUso.md)
+
+[Diagrama de Classes](./modelagem/DiagramaDeClasses.md)
 
 # Sobre
 
